@@ -16,5 +16,7 @@ Currently focused on invariant-based security analysis of Solana DeFi protocols.
 
 ### Platforms
 
-- **Code4rena** — Contest participant
+- **Immunefi** — Contest participant
 - **Cantina** - Contest participant
+- **Sherlock** - Contest participant
+
